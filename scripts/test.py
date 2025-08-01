@@ -1,0 +1,1 @@
+print('test cron 1 minute')
